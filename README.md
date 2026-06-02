@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-the-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lost In The Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-the-covers/) |
+| **Get License** | [Get a Licensing Quote for Lost In The Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-the-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the hardwood floor
+> Pull me closer, leave the keys right by the door
+> Got that heavy feeling pulling like the tide
+> Every breath you take is taking me for a ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
