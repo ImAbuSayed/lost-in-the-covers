@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lost In The Covers
+
+This log tracks the cryptographic history and versioning for the song **Lost In The Covers** (lost-in-the-covers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T04:22:04.346084 | `v1` | `6f5f58b821a11b108f6351a68dbcf8b275ecfe9bf35c4df2c51a6078da7e2361` | `9b45957c4b1239b8896d94d502912d2b1980fc1d1fad67a8bffb7d873a4449a1` | `2026-06-03_lost-in-the-covers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
